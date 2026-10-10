@@ -1,6 +1,6 @@
-# Olá! Sou Eliani Dombroski 👋
+# Olá! 👋
 
-🔬 Bióloga, mestre e doutoranda em Ecologia e Conservação da Biodiversidade na Universidade Federal de Mato Grosso (UFMT).
+🔬 Sou Bióloga, mestre e doutoranda em Ecologia e Conservação da Biodiversidade na Universidade Federal de Mato Grosso (UFMT).
 
 
 ## 📌 Áreas de interesse
