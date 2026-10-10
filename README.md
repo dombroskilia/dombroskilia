@@ -10,3 +10,4 @@
 - 📊 Análise de dados ecológicos
 - 🤖 Inteligência artificial e visão computacional
 - 📐 Morfometria e traços funcionais
+- 💻 Tecnologias educacionais 
