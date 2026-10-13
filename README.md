@@ -8,6 +8,5 @@
 - 🐜 Ecologia de formigas e biodiversidade
 - 🌳 Restauração ecológica e conservação
 - 📊 Análise de dados ecológicos
-- 🤖 Inteligência artificial e visão computacional
 - 📐 Morfometria e traços funcionais
 - 💻 Tecnologias educacionais 
